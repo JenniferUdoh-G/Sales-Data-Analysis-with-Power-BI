@@ -59,7 +59,18 @@ Built a four-page report with charts, tables, slicers, and conditional formattin
 Region,Product,Reseller geography,and Date (Fiscal).
 
 ### Data model image
-<img width="960" height="531" alt="Data model image" src="https://github.com/user-attachments/assets/f0a4d645-ca21-4522-aea2-e84f4cb4806b" />
+<img width="960" height="531" alt="Data model image" src="https://github.com/user-attachments/assets/f0a4d645-ca21-4522-aea2-e84f4cb4806b" /> 
+
+### DAX Measures:
+Measures are organised into display folders in the Sales table:
+| Folder | Measures | What they answer |
+|---|---|---|
+| **Count** | Order Lines, Orders | How many orders and order lines were placed |
+| **Pricing** | Avg Price, Max Price, Median Price, Min Price | How selling prices are distributed |
+| **Profitability** | Profit, Profit Margin | How much profit was made, and as a % of sales |
+| **Ratio** | Sales % of All, Sales % of Group | Each item's share of total or group sales |
+| **Time Intelligence** | Sales YoY Growth, Sales YTD | Growth versus last year and year-to-date totals |
+| **Targets table** | Target, Variance, Variance Margin | Actual performance against target |
 
 
 
