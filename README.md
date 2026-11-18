@@ -21,3 +21,27 @@ Raw sales data rarely arrives ready for decision-making. The goal of this projec
 | **Data Modelling** | Relationships, calculated date table |
 | **Analysis** | Dax measures |
 | **Visualization** | Interactive Power BI report |
+
+### Project Workflow
+
+#### 1. Data Extraction
+ Connected Power BI to the source sales data (Excel / CSV / folder).
+#### 2. Data Cleaning & Transformation (Power Query) 
+- Promoted headers and set correct data types
+- Removed duplicates and blank/null rows
+- Standardised text values (trim, proper case)
+- Renamed columns for clarity
+- Created derived columns where needed
+#### 3. Data Modelling
+- Loaded the cleaned tables into Power BI Desktop
+- Created relationships between the tables
+- Built a calculated date table with DAX
+#### 4. Analysis with DAX
+  Created measures to calculate the core KPIs and grouped them into folders (see DAX Measures).
+#### 5. Visualisation
+Built a four-page report with charts, tables, slicers, and conditional formatting for interactive exploration (see Report Pages).
+
+
+
+
+
