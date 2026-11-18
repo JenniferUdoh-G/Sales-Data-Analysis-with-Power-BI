@@ -58,6 +58,10 @@ Built a four-page report with charts, tables, slicers, and conditional formattin
 #### Hierarchies created: 
 Region,Product,Reseller geography,and Date (Fiscal).
 
+### Data model image
+<img width="960" height="531" alt="Data model image" src="https://github.com/user-attachments/assets/f0a4d645-ca21-4522-aea2-e84f4cb4806b" />
+
+
 
 
 
