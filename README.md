@@ -52,8 +52,11 @@ Built a four-page report with charts, tables, slicers, and conditional formattin
 | **Region** | Dimension | Sales regions (with hierarchy) |
 | **Reseller** | Dimension | 	Business type and geography (country, state/province, city) |
 | **Salesperson** | Dimension | Dimension |
-| **Salesperson (Performance)** | Supporting | Used for the salesperson performance view | 
+| **Salesperson (Performance)** | Bridge |Links salespeople to the sales territories (regions) they cover | 
 | **Targets** | Dimension | Sales targets used for variance analysis |
+
+#### Hierarchies created: 
+Region,Product,Reseller geography,and Date (Fiscal).
 
 
 
