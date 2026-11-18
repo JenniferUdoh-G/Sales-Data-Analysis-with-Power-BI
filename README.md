@@ -42,6 +42,22 @@ Raw sales data rarely arrives ready for decision-making. The goal of this projec
 Built a four-page report with charts, tables, slicers, and conditional formatting for interactive exploration (see Report Pages).
 
 
+#### Data Model
+
+| Table | Type | Purpose
+|---|---|---|
+| **Sales** | 	Fact | Sales, cost, quantity, and unit price transactions |
+| **Date** | Dimension | Calculated date table with year, quarter, month, and fiscal hierarchy |
+| **Product** | Dimension | Category, subcategory, product, colour, and standard cost |
+| **Region** | Dimension | Sales regions (with hierarchy) |
+| **Reseller** | Dimension | 	Business type and geography (country, state/province, city) |
+| **Salesperson** | Dimension | Dimension |
+| **Salesperson (Performance)** | Supporting | Used for the salesperson performance view | 
+| **Targets** | Dimension | Sales targets used for variance analysis |
+
+
+
+
 
 
 
