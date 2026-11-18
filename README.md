@@ -72,6 +72,37 @@ Measures are organised into display folders in the Sales table:
 | **Time Intelligence** | Sales YoY Growth, Sales YTD | Growth versus last year and year-to-date totals |
 | **Targets table** | Target, Variance, Variance Margin | Actual performance against target |
 
+### Featured Measures:
+```
+Profit = [SUM('Sales'[Sales]) - SUM('Sales'[Cost])]
+
+Profit Margin = [DIVIDE([Profit], SUM('Sales'[Sales]))]
+
+Sales YTD = [TOTALYTD(SUM(Sales[Sales]),'Date'[Date],"6-30")]
+
+Sales YoY Growth = 
+VAR SalesPriorYear =
+	CALCULATE(
+		SUM(Sales[Sales]),
+		PARALLELPERIOD(
+			'Date'[Date],
+			-12,
+			MONTH
+		)
+	)
+RETURN
+	DIVIDE(
+		(SUM(Sales[Sales]) - SalesPriorYear),
+		SalesPriorYear
+	)]
+
+Variance =
+IF(
+	HASONEVALUE('Salesperson (Performance)'[Salesperson]),
+	SUM(Sales[Sales]) - [Target]
+)]
+```
+
 
 
 
