@@ -112,14 +112,19 @@ IF(
 The report has four pages, each focused on a different question.
 
 ### 1. Overview
-- the Year and Region slicers
-- the sales and profit chart by month
-- sales by category and group
-- quantity by category (Bikes 27.8K down to Accessories 7.1K).
+A high-level view of sales, profit, and volume, filtered by Year (fiscal year) and Region slicers.
+
+- Sum of Sales and Profit by Month: columns show monthly sales and a dotted line shows profit, across the fiscal year
+- Sum of Sales by Category and Group: stacked columns showing each product category's sales split by sales group
+- Sum of Quantity by Category: bar chart of units sold per category (for FY2019: Bikes 27.8K, Clothing 24.9K, Components 19.2K, Accessories 7.1K)
 <img width="976" height="515" alt="Overview" src="https://github.com/user-attachments/assets/0b602b8a-e64c-467a-be33-d6348204201b" />
 
 ### 2. Profit
-- The matrix that drills from Year to Quarter to Month, with Orders, Sales, Cost, Profit, and Profit Margin, and losses shown in brackets
+A detailed profitability breakdown, filtered by a Region slicer.
+
+- Matrix that drills down from Year → Quarter → Month using the fiscal calendar
+- Shows Orders, Sum of Sales, Sum of Cost, Profit, and Profit Margin at every level, with subtotals
+- Conditional formatting highlights the figures, and losses appear in brackets, for example ($353,510)
 <img width="977" height="541" alt="Profit" src="https://github.com/user-attachments/assets/8bb85fd4-025f-4c55-b819-bac8a133ff67" />
 
 ### 3. My Performance
