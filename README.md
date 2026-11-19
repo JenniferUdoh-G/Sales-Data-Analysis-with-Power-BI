@@ -116,6 +116,8 @@ The report has four pages, each focused on a different question.
 - the sales and profit chart by month
 - sales by category and group
 - quantity by category (Bikes 27.8K down to Accessories 7.1K).
+<img width="976" height="515" alt="Overview" src="https://github.com/user-attachments/assets/0b602b8a-e64c-467a-be33-d6348204201b" />
+
 
 
 
