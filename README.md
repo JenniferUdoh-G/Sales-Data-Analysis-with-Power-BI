@@ -62,6 +62,8 @@ Region,Product,Reseller geography,and Date (Fiscal).
 <img width="960" height="531" alt="Data model image" src="https://github.com/user-attachments/assets/f0a4d645-ca21-4522-aea2-e84f4cb4806b" /> 
 
 ### DAX Measures:
+
+
 Measures are organised into display folders in the Sales table:
 | Folder | Measures | What they answer |
 |---|---|---|
@@ -73,6 +75,8 @@ Measures are organised into display folders in the Sales table:
 | **Targets table** | Target, Variance, Variance Margin | Actual performance against target |
 
 ### Featured Measures:
+
+
 ```
 Profit = [SUM('Sales'[Sales]) - SUM('Sales'[Cost])]
 
@@ -102,6 +106,17 @@ IF(
 	SUM(Sales[Sales]) - [Target]
 )]
 ```
+
+## Report Pages
+
+The report has four pages, each focused on a different question.
+
+### 1. Overview
+- the Year and Region slicers
+- the sales and profit chart by month
+- sales by category and group
+- quantity by category (Bikes 27.8K down to Accessories 7.1K).
+
 
 
 
