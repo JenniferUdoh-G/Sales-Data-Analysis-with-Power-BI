@@ -57,7 +57,6 @@ Built a four-page report with charts, tables, slicers, and conditional formattin
 
 #### Hierarchies created: 
 Region,Product,Reseller geography,and Date (Fiscal).
-
 <img width="960" height="531" alt="Data model image" src="https://github.com/user-attachments/assets/f0a4d645-ca21-4522-aea2-e84f4cb4806b" /> 
 
 #### DAX Measures:
@@ -116,9 +115,7 @@ A high-level view of sales, profit, and volume, filtered by Year (fiscal year) a
 - Sum of Sales and Profit by Month: columns show monthly sales and a dotted line shows profit, across the fiscal year
 - Sum of Sales by Category and Group: stacked columns showing each product category's sales split by sales group
 - Sum of Quantity by Category: bar chart of units sold per category (for FY2019: Bikes 27.8K, Clothing 24.9K, Components 19.2K, Accessories 7.1K)
-  
-
-<img width="976" height="515" alt="Overview" src="https://github.com/user-attachments/assets/0b602b8a-e64c-467a-be33-d6348204201b" />
+  <img width="976" height="515" alt="Overview" src="https://github.com/user-attachments/assets/0b602b8a-e64c-467a-be33-d6348204201b" />
 
 ### 2. Profit
 A detailed profitability breakdown, filtered by a Region slicer.
@@ -126,9 +123,7 @@ A detailed profitability breakdown, filtered by a Region slicer.
 - Matrix that drills down from Year → Quarter → Month using the fiscal calendar
 - Shows Orders, Sum of Sales, Sum of Cost, Profit, and Profit Margin at every level, with subtotals
 - Conditional formatting highlights the figures, and losses appear in brackets, for example ($353,510)
-  
-
-<img width="977" height="541" alt="Profit" src="https://github.com/user-attachments/assets/8bb85fd4-025f-4c55-b819-bac8a133ff67" />
+  <img width="977" height="541" alt="Profit" src="https://github.com/user-attachments/assets/8bb85fd4-025f-4c55-b819-bac8a133ff67" />
 
 ### 3. My Performance
 
@@ -137,9 +132,7 @@ Actual sales compared with targets, filtered by a Year slicer.
 - KPI card showing Sum of Sales, Target, Variance, and Variance Margin
 - Clustered column chart comparing monthly sales with the monthly target
 - Bar Chart / Column Chart buttons that let the user switch the chart type
-  
-
- <img width="985" height="555" alt="Performance" src="https://github.com/user-attachments/assets/db6975c0-21a1-4fd6-a502-bbfb4c8d9012" />
+  <img width="985" height="555" alt="Performance" src="https://github.com/user-attachments/assets/db6975c0-21a1-4fd6-a502-bbfb4c8d9012" />
 
 ### 4. Product Details (drill-through)
 
@@ -149,9 +142,7 @@ A hidden detail page reached by drilling through from a product category, with a
 - Colour cells match the product colours
 - Conditional formatting icons on profit margin: a green circle for healthy margins and a red diamond for negative margins
 - Shown here for the Components category: about 46,472 units and $11.2M in sales at an 8.92% margin
-
-
-  <img width="956" height="547" alt="Product Details" src="https://github.com/user-attachments/assets/126e597d-3cd3-44a3-8d61-58cb46aa32a6" />
+<img width="956" height="547" alt="Product Details" src="https://github.com/user-attachments/assets/126e597d-3cd3-44a3-8d61-58cb46aa32a6" />
 
 ### Key Insights
 - Bikes dominate: Bikes lead on both sales and units sold (27.8K units in FY2019), well ahead of Clothing, Components, and Accessories.
@@ -169,6 +160,14 @@ A hidden detail page reached by drilling through from a product category, with a
 ├── Performance.png
 └── Product Details.png
 ```
+
+## About Me
+
+Jennifer Udoh Business Administration graduate (B.Sc., Ambrose Alli University) building a career in data analysis. Skilled in Excel, Power BI, Word, PowerPoint, and Google Workspace.
+
+GitHub: your-username
+LinkedIn:http://linkedin.com/in/jenniferudoh
+Email: udohjennifer336@gmail.com
 
 
 
