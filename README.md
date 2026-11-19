@@ -122,6 +122,18 @@ The report has four pages, each focused on a different question.
 - The matrix that drills from Year to Quarter to Month, with Orders, Sales, Cost, Profit, and Profit Margin, and losses shown in brackets
 <img width="977" height="541" alt="Profit" src="https://github.com/user-attachments/assets/8bb85fd4-025f-4c55-b819-bac8a133ff67" />
 
+### 3. My Performance
+
+Actual sales compared with targets, filtered by a Year slicer.
+
+- KPI card showing Sum of Sales, Target, Variance, and Variance Margin
+- Clustered column chart comparing monthly sales with the monthly target
+- Bar Chart / Column Chart buttons that let the user switch the chart type
+  <img width="985" height="555" alt="Performance" src="https://github.com/user-attachments/assets/db6975c0-21a1-4fd6-a502-bbfb4c8d9012" />
+
+
+
+
 
 
 
