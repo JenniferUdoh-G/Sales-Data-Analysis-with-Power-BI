@@ -153,7 +153,10 @@ A hidden detail page reached by drilling through from a product category, with a
 
   <img width="956" height="547" alt="Product Details" src="https://github.com/user-attachments/assets/126e597d-3cd3-44a3-8d61-58cb46aa32a6" />
 
-
+### Key Insights
+- Bikes dominate: Bikes lead on both sales and units sold (27.8K units in FY2019), well ahead of Clothing, Components, and Accessories.
+- Profit is uneven across periods: FY2019 totalled about $28.0M in sales with a 4.33% margin, but FY2018 Q4 lost $353,510 (-8.24%) and -- FY2020 Q1 lost $447,686 (-4.00%), with every month in that quarter negative.
+- Touring Frames have negative margins: in the Components category they are among the top sellers, yet earned about -0.25% and -0.18%, while other component subcategories earned about 26%. This points to a pricing or cost problem worth investigating.
 
 
 
