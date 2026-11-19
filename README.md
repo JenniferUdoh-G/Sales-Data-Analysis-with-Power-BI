@@ -165,9 +165,9 @@ A hidden detail page reached by drilling through from a product category, with a
 
 Jennifer Udoh Business Administration graduate (B.Sc., Ambrose Alli University) building a career in data analysis. Skilled in Excel, Power BI, Word, PowerPoint, and Google Workspace.
 
-GitHub: JenniferUdoh-G
-LinkedIn:http://linkedin.com/in/jenniferudoh
-Email: udohjennifer336@gmail.com
+- GitHub: JenniferUdoh-G
+- LinkedIn:http://linkedin.com/in/jenniferudoh
+- Email: udohjennifer336@gmail.com
 
 
 
