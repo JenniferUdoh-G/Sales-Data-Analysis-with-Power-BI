@@ -159,6 +159,18 @@ A hidden detail page reached by drilling through from a product category, with a
 - Touring Frames have negative margins: in the Components category they are among the top sellers, yet earned about -0.25% and -0.18%, while other component subcategories earned about 26%. This points to a pricing or cost problem worth investigating.
 
 
+## Repository Structure
+
+```
+├── README.md
+├── Data model image.png
+├── Overview.png
+├── Profit.png
+├── Performance.png
+└── Product Details.png
+```
+
+
 
 
 
