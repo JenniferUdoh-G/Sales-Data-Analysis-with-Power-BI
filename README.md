@@ -39,7 +39,7 @@ Raw sales data rarely arrives ready for decision-making. The goal of this projec
 #### 4. Analysis with DAX
   Created measures to calculate the core KPIs and grouped them into folders (see [DAX Measures](#dax-measures)).
 #### 5. Visualisation
-Built a four-page report with charts, tables, slicers, and conditional formatting for interactive exploration (see Report Pages).
+Built a four-page report with charts, tables, slicers, and conditional formatting for interactive exploration (see [Report Pages](#report-pages)).
 
 
 ## Data Model
