@@ -118,6 +118,9 @@ The report has four pages, each focused on a different question.
 - quantity by category (Bikes 27.8K down to Accessories 7.1K).
 <img width="976" height="515" alt="Overview" src="https://github.com/user-attachments/assets/0b602b8a-e64c-467a-be33-d6348204201b" />
 
+### 2. Profit
+- The matrix that drills from Year to Quarter to Month, with Orders, Sales, Cost, Profit, and Profit Margin, and losses shown in brackets
+<img width="977" height="541" alt="Profit" src="https://github.com/user-attachments/assets/8bb85fd4-025f-4c55-b819-bac8a133ff67" />
 
 
 
