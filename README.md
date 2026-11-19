@@ -13,7 +13,7 @@ Raw sales data rarely arrives ready for decision-making. The goal of this projec
 - Writing DAX measures for business KPIs
 - Designing an interactive, multi-visual dashboard
 
-## Tools & Skills
+### Tools & Skills
 | Area | Details |
 |---|---|
 | **Tool** | Microsoft Power BI Desktop |
@@ -42,7 +42,7 @@ Raw sales data rarely arrives ready for decision-making. The goal of this projec
 Built a four-page report with charts, tables, slicers, and conditional formatting for interactive exploration (see Report Pages).
 
 
-#### Data Model
+## Data Model
 
 | Table | Type | Purpose
 |---|---|---|
@@ -58,10 +58,9 @@ Built a four-page report with charts, tables, slicers, and conditional formattin
 #### Hierarchies created: 
 Region,Product,Reseller geography,and Date (Fiscal).
 
-### Data model image
 <img width="960" height="531" alt="Data model image" src="https://github.com/user-attachments/assets/f0a4d645-ca21-4522-aea2-e84f4cb4806b" /> 
 
-### DAX Measures:
+#### DAX Measures:
 
 
 Measures are organised into display folders in the Sales table:
@@ -74,7 +73,7 @@ Measures are organised into display folders in the Sales table:
 | **Time Intelligence** | Sales YoY Growth, Sales YTD | Growth versus last year and year-to-date totals |
 | **Targets table** | Target, Variance, Variance Margin | Actual performance against target |
 
-### Featured Measures:
+##### Featured Measures:
 
 
 ```
