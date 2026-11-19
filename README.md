@@ -136,6 +136,16 @@ Actual sales compared with targets, filtered by a Year slicer.
 - Bar Chart / Column Chart buttons that let the user switch the chart type
   <img width="985" height="555" alt="Performance" src="https://github.com/user-attachments/assets/db6975c0-21a1-4fd6-a502-bbfb4c8d9012" />
 
+### 4. Product Details (drill-through)
+
+A hidden detail page reached by drilling through from a product category, with a back button to return to the main report.
+
+- Lists each subcategory with its colour, quantity sold, sales, and profit margin, with a total row
+- Colour cells match the product colours
+- Conditional formatting icons on profit margin: a green circle for healthy margins and a red diamond for negative margins
+- Shown here for the Components category: about 46,472 units and $11.2M in sales at an 8.92% margin
+  <img width="956" height="547" alt="Product Details" src="https://github.com/user-attachments/assets/126e597d-3cd3-44a3-8d61-58cb46aa32a6" />
+
 
 
 
